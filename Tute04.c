@@ -17,6 +17,7 @@ int main() {
    printf("%d ", multiply(no1, no2));
    return 0;
 }
+
 int minimum(int a, int b){
   
   int min;
